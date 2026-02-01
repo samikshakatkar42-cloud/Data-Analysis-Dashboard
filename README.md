@@ -1,2 +1,6 @@
-# Data-Analysis-Dashboard
-This project is an end-to-end Power BI loan default analysis solution built using SQL Server, Power BI Dataflows, and Power BI Desktop. It focuses on analyzing loan amounts, default rates, and customer risk patterns across demographics such as age, employment type, credit score, and marital status.
+#Loan-Default  – End-to-End Power BI Project
+##Description 
+This project demonstrates a complete end-to-end Business Intelligence solution using Power BI, SQL Server, and Power BI Dataflows to analyse loan default Behaviour.
+The goal is to help stakeholders understand loan distribution, default rates, risk patterns, and customer demographics to support data-driven lending decisions.
+The project covers the entire BI lifecycle — from data ingestion and transformation to advanced DAX calculations, data validation, visualization, and automated refresh.
+
